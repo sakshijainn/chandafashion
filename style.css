@@ -397,6 +397,8 @@ button a
 .left .content1 .social1 a
 {
     padding: 0 2px;
+    text-decoration: none;
+    color: white;
 
 }
 
