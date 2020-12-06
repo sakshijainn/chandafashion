@@ -197,11 +197,10 @@ button a
     display: block;
     text-decoration: none;
     margin-top: 1rem;
-    padding: 1rem;
+    padding: 2rem;
     color: black;
     font-weight: bold;
   }
-
 
   #btnn:hover
   {
