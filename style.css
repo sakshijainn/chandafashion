@@ -345,8 +345,9 @@ button a
 
 .main-content
 {
-    background-color: #5886af;
-    background-color: #A5B4FC;
+    /* background-color: #5886af;
+    background-color: #A5B4FC; */
+    background-color:#5886af;
     /* padding:1rem; */
     display: flex;
     color: white;
