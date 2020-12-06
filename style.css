@@ -437,6 +437,8 @@ textarea , input[type=email] {
     float:center;
     width: 30%;
   }
+
+  
  
 
 
@@ -502,5 +504,11 @@ textarea , input[type=email] {
         flex-direction: column;
         
     }
+
+    .social1 a
+  {
+      text-decoration: none;
+      color:white;
+  }
     
 }
